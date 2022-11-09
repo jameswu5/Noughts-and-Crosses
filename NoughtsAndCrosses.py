@@ -1,5 +1,4 @@
 # Nought and crosses by James Wu
-# Adapted from the skeleton code
 # Features: Player vs Player, Player vs Perfect AI, best move from one game state, interactive interface, easy inputs, some validation
 
 class GameState:
